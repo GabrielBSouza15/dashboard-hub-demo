@@ -60,3 +60,8 @@ Esta versão foi recriada para portfólio com dados locais fictícios, identidad
 [Gabriel Bitencourt de Souza](https://www.linkedin.com/in/gabrielbitencourtdesouza/) · Dados, BI e automação · Engenharia de Produção em andamento na UFV.
 
 Código demonstrativo preparado com apoio do OpenAI Codex, sob orientação de Gabriel. Licença MIT somente para o conteúdo deste repositório.
+
+
+## Verificação automática
+
+O workflow executa os testes de datas e links locais em Linux com Node.js 24. A execução ocorre em alterações de `main`, pull requests e acionamentos manuais. Consulte o resultado em [GitHub Actions](https://github.com/GabrielBSouza15/dashboard-hub-demo/actions/workflows/testes.yml).
